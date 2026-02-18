@@ -1,0 +1,28 @@
+{
+    "id": "9A54F31E",
+    "path": "~/Documents/DAMA/DAMA51/energy-flexibility-proj/scripts/energyAnalysis.R",
+    "project_path": "scripts/energyAnalysis.R",
+    "type": "r_source",
+    "hash": "1546366730",
+    "contents": "",
+    "dirty": false,
+    "created": 1767993685167.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "65,34",
+        "scrollLine": "56",
+        "docOutlineVisible": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1771439932,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1771439932,
+    "read_only": false,
+    "read_only_alternatives": []
+}
